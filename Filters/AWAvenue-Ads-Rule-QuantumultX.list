@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 856
+#Total lines: 860
 #Version: 1.6.8-release
-#Update time: 2025-08-18 16:44:05 UTC+8
-#Update content: 拦截某博广告，感谢 @0xLac #161
+#Update time: 2025-08-23 15:41:58 UTC+8
+#Update content: 拦截 dongqiudi比赛界面横幅广告，感谢 @酵母
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -182,6 +182,7 @@ DOMAIN,analyticsengine.s3.amazonaws.com,reject
 DOMAIN,analyze.lemurbrowser.com,reject
 DOMAIN,android.bugly.qq.com,reject
 DOMAIN,andrqd.play.aiseet.atianqi.com,reject
+DOMAIN,ap.dongdianqiu.com,reject
 DOMAIN,ap.dongqiudi.com,reject
 DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net,reject
 DOMAIN,apd-pcdnwxnat.teg.tencent-cloud.net,reject
@@ -381,6 +382,7 @@ DOMAIN,hc-ssp.sm.cn,reject
 DOMAIN,heads-ak.spotify.com.edgesuite.net,reject
 DOMAIN,heads-fa.spotify.com,reject
 DOMAIN,hexagon-analytics.com,reject
+DOMAIN,hlog.bigda.com,reject
 DOMAIN,hm.baidu.com,reject
 DOMAIN,hmma.baidu.com,reject
 DOMAIN,hotupgrade.hpplay.cn,reject
@@ -516,6 +518,7 @@ DOMAIN,micro-xdb.com,reject
 DOMAIN,mini-prog-drm.vodplayvideo.net,reject
 DOMAIN,mission-pub.smart-tv.cn,reject
 DOMAIN,miui-fxcse.avlyun.com,reject
+DOMAIN,mlog.bigda.com,reject
 DOMAIN,mmgame.qpic.cn,reject
 DOMAIN,mnqlog.ldmnq.com,reject
 DOMAIN,moatads.com,reject
@@ -774,6 +777,7 @@ DOMAIN,ulogs.umengcloud.com,reject
 DOMAIN,umengacs.m.taobao.com,reject
 DOMAIN,umengjmacs.m.taobao.com,reject
 DOMAIN,umini.shujupie.com,reject
+DOMAIN,union-mlog.bigda.com,reject
 DOMAIN,union.baidu.cn,reject
 DOMAIN,union.baidu.com,reject
 DOMAIN,update.avlyun.sec.miui.com,reject

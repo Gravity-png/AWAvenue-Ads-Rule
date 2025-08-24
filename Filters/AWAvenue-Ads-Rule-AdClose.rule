@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 840
+#Total lines: 844
 #Version: 1.6.8-release
-#Update time: 2025-08-18 16:44:05 UTC+8
-#Update content: 拦截某博广告，感谢 @0xLac #161
+#Update time: 2025-08-23 15:41:58 UTC+8
+#Update content: 拦截 dongqiudi比赛界面横幅广告，感谢 @酵母
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -185,6 +185,7 @@ domain, analyticsengine.s3.amazonaws.com
 domain, analyze.lemurbrowser.com
 domain, android.bugly.qq.com
 domain, andrqd.play.aiseet.atianqi.com
+domain, ap.dongdianqiu.com
 domain, ap.dongqiudi.com
 domain, apd-pcdnwxlogin.teg.tencent-cloud.net
 domain, apd-pcdnwxnat.teg.tencent-cloud.net
@@ -384,6 +385,7 @@ domain, hc-ssp.sm.cn
 domain, heads-ak.spotify.com.edgesuite.net
 domain, heads-fa.spotify.com
 domain, hexagon-analytics.com
+domain, hlog.bigda.com
 domain, hm.baidu.com
 domain, hmma.baidu.com
 domain, hotupgrade.hpplay.cn
@@ -519,6 +521,7 @@ domain, micro-xdb.com
 domain, mini-prog-drm.vodplayvideo.net
 domain, mission-pub.smart-tv.cn
 domain, miui-fxcse.avlyun.com
+domain, mlog.bigda.com
 domain, mmgame.qpic.cn
 domain, mnqlog.ldmnq.com
 domain, moatads.com
@@ -777,6 +780,7 @@ domain, ulogs.umengcloud.com
 domain, umengacs.m.taobao.com
 domain, umengjmacs.m.taobao.com
 domain, umini.shujupie.com
+domain, union-mlog.bigda.com
 domain, union.baidu.cn
 domain, union.baidu.com
 domain, update.avlyun.sec.miui.com

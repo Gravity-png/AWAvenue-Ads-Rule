@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 856
+#Total lines: 860
 #Version: 1.6.8-release
-#Update time: 2025-08-18 16:44:05 UTC+8
-#Update content: 拦截某博广告，感谢 @0xLac #161
+#Update time: 2025-08-23 15:41:58 UTC+8
+#Update content: 拦截 dongqiudi比赛界面横幅广告，感谢 @酵母
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -182,6 +182,7 @@ DOMAIN,analyticsengine.s3.amazonaws.com
 DOMAIN,analyze.lemurbrowser.com
 DOMAIN,android.bugly.qq.com
 DOMAIN,andrqd.play.aiseet.atianqi.com
+DOMAIN,ap.dongdianqiu.com
 DOMAIN,ap.dongqiudi.com
 DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
 DOMAIN,apd-pcdnwxnat.teg.tencent-cloud.net
@@ -381,6 +382,7 @@ DOMAIN,hc-ssp.sm.cn
 DOMAIN,heads-ak.spotify.com.edgesuite.net
 DOMAIN,heads-fa.spotify.com
 DOMAIN,hexagon-analytics.com
+DOMAIN,hlog.bigda.com
 DOMAIN,hm.baidu.com
 DOMAIN,hmma.baidu.com
 DOMAIN,hotupgrade.hpplay.cn
@@ -516,6 +518,7 @@ DOMAIN,micro-xdb.com
 DOMAIN,mini-prog-drm.vodplayvideo.net
 DOMAIN,mission-pub.smart-tv.cn
 DOMAIN,miui-fxcse.avlyun.com
+DOMAIN,mlog.bigda.com
 DOMAIN,mmgame.qpic.cn
 DOMAIN,mnqlog.ldmnq.com
 DOMAIN,moatads.com
@@ -774,6 +777,7 @@ DOMAIN,ulogs.umengcloud.com
 DOMAIN,umengacs.m.taobao.com
 DOMAIN,umengjmacs.m.taobao.com
 DOMAIN,umini.shujupie.com
+DOMAIN,union-mlog.bigda.com
 DOMAIN,union.baidu.cn
 DOMAIN,union.baidu.com
 DOMAIN,update.avlyun.sec.miui.com
